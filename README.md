@@ -34,17 +34,28 @@ en el área de desarrollo de software.
 
 ## 🚀 Proyectos destacados
 
-### Uniconect
-Aplicación de red social desarrollada con React y Java/Spring Boot,
-con funcionalidades de frontend y backend.
+### 🔗 UniConnect
 
-### Gestión de Tienda
-Sistema de gestión desarrollado con Java y Spring Boot para la
-administración de clientes y productos.
+Red social universitaria desarrollada como proyecto académico.
 
-### Sistema Experto IA
-Proyecto desarrollado en Python como parte de mi formación
-académica.
+**Tecnologías utilizadas:**
+- ⚛️ React
+- ☕ Java
+- 🌱 Spring Boot
+- 🐘 PostgreSQL
+- 🔌 REST API
+- 🔐 Supabase
+
+**Características principales:**
+- 👤 Gestión de usuarios
+- 📝 Publicaciones
+- 💬 Comentarios
+- ❤️ Likes
+- 🖼️ Gestión de contenido multimedia
+- 🔐 Autenticación
+- 🔗 Comunicación entre frontend y backend
+
+👉 [Ver proyecto en GitHub](https://github.com/juancho-123/Uniconect)****
 
 ## 🎯 Objetivo profesional
 
