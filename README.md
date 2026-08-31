@@ -1,16 +1,57 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Juan Esteban
 
-<!--
-**juancho-123/juancho-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería Informática  
+💻 En formación como desarrollador de software
 
-Here are some ideas to get you started:
+## 👨‍💻 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy estudiante de Ingeniería Informática interesado en el desarrollo
+de software y la creación de aplicaciones web.
+
+Actualmente estoy fortaleciendo mis conocimientos en desarrollo
+backend, frontend, bases de datos y desarrollo de aplicaciones.
+
+Me interesa seguir aprendiendo y adquirir experiencia profesional
+en el área de desarrollo de software.
+
+## 🛠️ Tecnologías
+
+### Backend
+- Java
+- Spring Boot
+- Python
+
+### Frontend
+- React
+- JavaScript
+- HTML
+- CSS
+
+### Herramientas
+- Git
+- GitHub
+- VS Code
+
+## 🚀 Proyectos destacados
+
+### Uniconect
+Aplicación de red social desarrollada con React y Java/Spring Boot,
+con funcionalidades de frontend y backend.
+
+### Gestión de Tienda
+Sistema de gestión desarrollado con Java y Spring Boot para la
+administración de clientes y productos.
+
+### Sistema Experto IA
+Proyecto desarrollado en Python como parte de mi formación
+académica.
+
+## 🎯 Objetivo profesional
+
+Actualmente busco una oportunidad para adquirir experiencia
+profesional en desarrollo de software y continuar fortaleciendo
+mis habilidades como desarrollador.
+
+## 📫 Contacto
+
+📧 juan_hoyos82231@elpoli.edu.co
