@@ -65,4 +65,6 @@ mis habilidades como desarrollador.
 
 ## 📫 Contacto
 
-📧 juan_hoyos82231@elpoli.edu.co
+- 💼 LinkedIn: [Juan Esteban Hoyos Morales](https://www.linkedin.com/)
+- 🐙 GitHub: [juancho-123](https://github.com/juancho-123)
+- 📧 Email: juan_hoyos82231@elpoli.edu.co
